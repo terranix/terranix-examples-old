@@ -1,5 +1,8 @@
 # terranix examples
 
+> [!WARNING]
+> These examples are not maintained. See https://terranix.org for maintained examples.
+
 Some examples to get you started on your next terranix project.
 Every example should contain a README.md with instructions on how to use it.
 
